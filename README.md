@@ -9,4 +9,4 @@ And uses Dark Sky API for fetching the weather based on the co-ordinates.
 And then displays Current Temperature,Humidity and Wind Speed.
 
 Use:
-node app.js -a <location-parameter>
+node app.js -a location-parameter
