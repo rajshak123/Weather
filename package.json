@@ -1,0 +1,11 @@
+{
+  "name": "Weather",
+  "version": "1.0.0",
+  "description": "Fetches the current temperature,humidity and wind speed based on the location entered by the user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajat Seeddharth",
+  "license": "ISC"
+}
